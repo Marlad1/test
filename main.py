@@ -10,7 +10,8 @@
 # str_count("abcd")
 
 # ------------------------------
-
+c = str([1, 2])
+print(int(c))
 
 # def str_count(data):
 #     for sym in set(data):
